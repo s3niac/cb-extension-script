@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         chaturbate-pattern-tip
 // @namespace    s3niac/cb-extension
-// @version      0.2.5
+// @version      0.2.6
 // @description  pattern tipping extension
 // @author       s3niac
 // @match        https://*.chaturbate.com/*
